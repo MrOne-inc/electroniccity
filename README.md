@@ -2,15 +2,8 @@
 
 Electronic City Version 1.0.0 by Eng. Medrick Meshack
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![electroniccity](https://github.com/MrOne-inc/electroniccity/assets/57585301/d0a32928-fdcf-42d5-b4f8-f2762560d652)
+![electroniccity3](https://github.com/MrOne-inc/electroniccity/assets/57585301/cfd061d0-33be-4521-a0e4-782469b7c873)
+![electroniccity2](https://github.com/MrOne-inc/electroniccity/assets/57585301/d556cf0b-d5ca-49fe-b71a-12de79e3c6e3)
+![electroniccity1](https://github.com/MrOne-inc/electroniccity/assets/57585301/f83eb449-d38b-4f5f-af90-f934573388e5)
